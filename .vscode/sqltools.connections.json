@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Recetas MySQL",
+    "server": "localhost",
+    "port": 3306,
+    "dialect": "MySQL",
+    "database": "recetas",
+    "username": "root",
+    "password": "val2006_",
+    "connectionTimeout": 60000,
+    "ssl": false
+  }
+]
